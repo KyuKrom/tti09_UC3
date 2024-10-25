@@ -1,2 +1,11 @@
-# tti09_UC3
+# UC3 - Codificar Frontend de Aplicações WEB
 Repositório criado para gerenciar os trabalho da UC3 do Curso no SENAC
+
+## Indicadores
+(Completar depois)
+
+## Conhecimentos
+(Completar depois)
+
+## Habilidades
+(Completar depois)
