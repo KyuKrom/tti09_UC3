@@ -8,4 +8,4 @@ Repositório criado para gerenciar os trabalho da UC3 do Curso no SENAC
 (Completar depois)
 
 ## Habilidades
-(Completar depois)
+(completar depois)
